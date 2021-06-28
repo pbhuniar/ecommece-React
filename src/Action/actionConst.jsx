@@ -1,0 +1,19 @@
+export const userAction = {
+    USER_REGISTER:"USER_REGISTER",
+    USER_LOGIN :"USER_LOGIN",
+
+}
+export const userProduct ={
+    PRODUCT:"PRODUCT",
+    PRODUCT_VIEW:"PRODUCT_VIEW",
+   
+}
+export const cartTypes ={
+    ADD_TO_CART : "ADD_TO_CART",
+    ADD_FROM_CART:"ADD_FROM_CART",
+    REMOVE_FROM_CART : 'REMOVE_FROM_CART',
+    DELETE_FROM_CART : 'DELETE_FROM_CART',
+    ADD_QUANTITY : 'ADD_QUANTITY',
+    SUB_QUANTITY : 'SUB_QUANTITY',
+    EMPTY_CART : 'EMPTY_CART',
+}

@@ -1,0 +1,11 @@
+
+.dropdown-toggle::after{
+    border-right: none;
+    border-left: none;
+}
+
+.dropdown-menu{
+    padding-top: 0%;
+    padding-bottom: 0%;
+   
+}
